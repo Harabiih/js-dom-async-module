@@ -1,0 +1,19 @@
+li {
+  color: gray; /* Default color */
+  cursor: pointer;
+  position: relative;
+}
+
+.tick {
+  position: absolute;
+  right: 10px;
+  display: none; /* Hidden by default */
+}
+
+.completed {
+  color: green; /* Completed color */
+}
+
+.completed .tick {
+  display: inline; /* Show tick when completed */
+}
