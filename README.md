@@ -1,6 +1,6 @@
-## Module Challenge 1 
+##  Module Challenges Overview 
 
-## 📝 Task: Interactive To-Do List
+## 📝Challenge 1: Interactive To-Do List
 
 ### Objective
 I built a simple **interactive to-do list** that lets you mark tasks as completed or incomplete just by clicking on them — no refresh needed.
@@ -25,3 +25,29 @@ I built a simple **interactive to-do list** that lets you mark tasks as complete
 
 ### 📸 Demo Screenshot
 <img width="2072" height="1284" alt="image" src="https://github.com/user-attachments/assets/06ef013c-95c4-4158-abae-211387a0be7b" />
+
+## Challenge 2: fetchDataWithCallback.js
+
+##  Objective
+    Simulated a data-fetching process using a callback function and setTimeout, with basic error handling.
+
+## Key Features Implemented
+Function: fetchDataWithCallback(callback)
+
+Simulated Delay: Used setTimeout with a 2-second delay.
+
+## Error Handling: 
+- Simulated failure using let error = true.
+
+- Wrapped logic in try/catch to log errors.
+
+## Success & Failure Logic:
+
+Success: Callback returns "Data fetched".
+
+Failure: Logs "Error: Fetch failed".
+
+Console Output: Displays result using console.log().
+
+## Team
+HAUWA MUHAMMAD BUKAR
